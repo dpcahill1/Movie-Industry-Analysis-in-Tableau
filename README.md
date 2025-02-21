@@ -1,2 +1,2 @@
 # Movie-Industry-Analysis-in-Tableau
-Academic project to gain experience with Tableau.
+Working in a team of six, we selected a dataset and performed thorough data preparation and cleaning to ensure consistency and accuracy. This process included handling missing data, formatting variables, and refining dataset structures. After preparing the data, we developed interactive visualizations in Tableau using a variety of chart types, including bar charts, scatterplots, line charts, and histograms. These visuals helped us to answer our research questions effectively and communicate key insights. We then compiled our findings into a PowerPoint presentation and presented them to the class.
